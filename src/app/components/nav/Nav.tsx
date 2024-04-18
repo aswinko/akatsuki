@@ -12,7 +12,7 @@ const Nav = () => {
             <Link href={"/donation/request"} className='px-5'>
                 Request
             </Link>
-            <Link href={"/donatio/donate"} className='px-5'>
+            <Link href={"/donation/donate"} className='px-5'>
                 Donate
             </Link>
             <Link href={"/history"} className='px-5'>
